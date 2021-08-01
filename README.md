@@ -8,9 +8,11 @@ Before:\
 After:\
 ![District Summary After](analysis/District_Summary_After.PNG)\
 Above shows the district summaries of before and after the removal of Thomas High School’s 9th grader’ math and reading scores. We can see that the average math score, average reading score, % passing math, % passing reading, and % overall passing was all affected. All of them decreased a small amount after the removal of Thomas High School’s 9th grader’s math and reading scores.
-- How is the school summary affected?
-Before:\
+- How is the school summary affected?\
+Before removing Thomas High 9th grader's math and reading scores:\
 ![Thomas High Before](analysis/Thomas_High_Analysis_Before.PNG)\
+Before removing Thomas High 9th grader's from total students in Thomas High:\
+![Thomas High Total Before](analysis/Before_Removing_9th_Graders.PNG)\
 After:\
 ![Thomas High After](analysis/Thomas_High_Analysis_After.PNG)\
 - How does replacing the ninth grader's math and reading scores affect Thomas High School's performance relative to the other schools?
