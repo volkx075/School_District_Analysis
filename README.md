@@ -20,6 +20,7 @@ Above shows Thomas High’s summary in three steps. First step shows what the su
 ![Top 5 Schools Before](analysis/Top_Five_Schools_Before.PNG)\
 After:\
 ![Top 5 Schools After](analysis/Top_Five_Schools_After.PNG)\
+Above shows the top 5 schools in performance, both before and after the removal of 9th graders from Thomas High School. We can see that either way Thomas High School is the second best in performance by their math and reading scores. Removing the 9th graders did not affect their performance compared to other schools.
 - How does replacing the ninth-grade scores affect the following:
   - Math and reading scores by grade\
   Before Math:\
