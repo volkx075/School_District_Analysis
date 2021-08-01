@@ -27,6 +27,7 @@ Above shows Thomas High’s summary in three steps. First step shows what the su
   ![Reading Scores Before](analysis/Reading_Scores_By_Grade_Before.PNG)\
   After Reading:\
   ![Reading Scores After](analysis/Reading_Scores_By_Grade_After.PNG)\
+  Above shows the breakdown of average math and reading scores per grade, both before and after the removal of 9th graders from Thomas High School. As we can see, the only change is the removal of 9th graders from Thomas High School in each chart.
   - Scores by school spending\
   Before:\
   ![Scores by School Spending Before](analysis/Scores_By_School_Spending_Before.PNG)\
