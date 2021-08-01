@@ -28,9 +28,9 @@ Above shows Thomas High’s summary in three steps. First step shows what the su
   After Reading:\
   ![Reading Scores After](analysis/Reading_Scores_By_Grade_After.PNG)\
   - Scores by school spending\
-  Before:
+  Before:\
   ![Scores by School Spending Before](analysis/Scores_By_School_Spending_Before.PNG)\
-  After:
+  After:\
   ![Scores by School Spending After](analysis/Scores_By_School_Spending_After.PNG)\
   - Scores by school size
   - Scores by school type
