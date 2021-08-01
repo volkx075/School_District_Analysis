@@ -38,18 +38,18 @@ Above shows the top 5 schools in performance, both before and after the removal 
   ![Scores by School Spending Before](analysis/Scores_By_School_Spending_Before.PNG)\
   After:\
   ![Scores by School Spending After](analysis/Scores_By_School_Spending_After.PNG)\
-  Above shows the scores by school spending, both before and after the removal of 9th graders from Thomas High School.  There is no change between the two charts. This makes     sense because Thomas High is one of 15 schools, plus, the averages and percentages did not change much after the removal of Thomas High’s 9th graders.
+  Above shows the scores by school spending, both before and after the removal of 9th graders from Thomas High School.  There are only changes in the spending range of $630-644, which is what range Thomas High School is in. The average math score, % passing math, % passing reading, and the % overall passing all decreased a bit. Whereas, the average reading score increased. 
   - Scores by school size
   Before:\
   ![Scores by School Size Before](analysis/Scores_By_School_Size_Before.PNG)\
   After:\
   ![Scores by School Size After](analysis/Scores_By_School_Size_After.PNG)\
-  Above shows the scores by school size, both before and after the removal of 9th graders from Thomas High School.  There is no change between the two charts. This makes sense because Thomas High is one of 15 schools, plus, the averages and percentages did not change much after the removal of Thomas High’s 9th graders.
+  Above shows the scores by school size, both before and after the removal of 9th graders from Thomas High School.  There are only changes in the medium size range (1000-2000), which is what range Thomas High School is in. The average math score, % passing math, % passing reading, and the % overall passing all decreased a bit. Whereas, the average reading score increased.
   - Scores by school type
     Before:\
   ![Scores by School Type Before](analysis/Scores_By_School_Type_Before.PNG)\
   After:\
   ![Scores by School Type After](analysis/Scores_By_School_Type_After.PNG)\
-  Above shows the scores by school type, both before and after the removal of 9th graders from Thomas High School.  There is no change between the two charts. This makes sense because Thomas High is one of 15 schools, plus, the averages and percentages did not change much after the removal of Thomas High’s 9th graders.
+  Above shows the scores by school type, both before and after the removal of 9th graders from Thomas High School.  There are only changes in the charter school type, which is what school type Thomas High School is. The average math score, % passing math, % passing reading, and the % overall passing all decreased a bit. Whereas, the average reading score increased.
 ## Summary
 After removing 9th graders from Thomas High School, there were a few changes in the school district analysis. One change was the average scores 
