@@ -32,14 +32,17 @@ Above shows Thomas High’s summary in three steps. First step shows what the su
   ![Scores by School Spending Before](analysis/Scores_By_School_Spending_Before.PNG)\
   After:\
   ![Scores by School Spending After](analysis/Scores_By_School_Spending_After.PNG)\
+  Above shows the scores by school spending, both before and after the removal of 9th graders from Thomas High School.  There is no change between the two charts. This makes     sense because Thomas High is one of 15 schools, plus, the averages and percentages did not change much after the removal of Thomas High’s 9th graders.
   - Scores by school size
   Before:\
   ![Scores by School Size Before](analysis/Scores_By_School_Size_Before.PNG)\
   After:\
   ![Scores by School Size After](analysis/Scores_By_School_Size_After.PNG)\
+  Above shows the scores by school size, both before and after the removal of 9th graders from Thomas High School.  There is no change between the two charts. This makes sense because Thomas High is one of 15 schools, plus, the averages and percentages did not change much after the removal of Thomas High’s 9th graders.
   - Scores by school type
     Before:\
   ![Scores by School Type Before](analysis/Scores_By_School_Type_Before.PNG)\
   After:\
   ![Scores by School Type After](analysis/Scores_By_School_Type_After.PNG)\
+  Above shows the scores by school type, both before and after the removal of 9th graders from Thomas High School.  There is no change between the two charts. This makes sense because Thomas High is one of 15 schools, plus, the averages and percentages did not change much after the removal of Thomas High’s 9th graders.
 ## Summary
