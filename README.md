@@ -17,6 +17,11 @@ After:\
 ![Thomas High After](analysis/Thomas_High_Analysis_After.PNG)\
 Above shows Thomas High’s summary in three steps. First step shows what the summary looked like before removing Thomas High’s 9th graders’ math and reading scores. The next step shows after removing the 9th graders’ math and reading scores, but before removing the 9th graders from the total students in Thomas High.  We can see the average math score decreased and the average math score increased after the removal of the 9th graders’ math scores. The last step shows after the removal of Thomas High’s 9th graders from the total students in Thomas High. We can see that the % passing math, % passing reading, and % overall passing significantly increased. This result makes perfect sense. If we removed the math and reading scores of 9th graders, then we would also need to remove the 9th graders from the total number of students in order to show an accurate passing rate for math, reading, and overall.
 - How does replacing the ninth grader's math and reading scores affect Thomas High School's performance relative to the other schools?
+Before:\
+![Top 5 Schools Before](analysis/Top_Five_Schools_Before.PNG)\
+After:\
+![Top 5 Schools After](analysis/Top_Five_Schools_After.PNG)\
+Above shows the top 5 schools in performance, both before and after the removal of 9th graders from Thomas High School. We can see that either way Thomas High School is the second best in performance by their math and reading scores. Removing the 9th graders did not affect their performance compared to other schools.
 - How does replacing the ninth-grade scores affect the following:
   - Math and reading scores by grade\
   Before Math:\
@@ -27,6 +32,7 @@ Above shows Thomas High’s summary in three steps. First step shows what the su
   ![Reading Scores Before](analysis/Reading_Scores_By_Grade_Before.PNG)\
   After Reading:\
   ![Reading Scores After](analysis/Reading_Scores_By_Grade_After.PNG)\
+  Above shows the breakdown of average math and reading scores per grade, both before and after the removal of 9th graders from Thomas High School. As we can see, the only change is the removal of 9th graders from Thomas High School in each chart.
   - Scores by school spending\
   Before:\
   ![Scores by School Spending Before](analysis/Scores_By_School_Spending_Before.PNG)\
@@ -46,3 +52,4 @@ Above shows Thomas High’s summary in three steps. First step shows what the su
   ![Scores by School Type After](analysis/Scores_By_School_Type_After.PNG)\
   Above shows the scores by school type, both before and after the removal of 9th graders from Thomas High School.  There is no change between the two charts. This makes sense because Thomas High is one of 15 schools, plus, the averages and percentages did not change much after the removal of Thomas High’s 9th graders.
 ## Summary
+After removing 9th graders from Thomas High School, there were a few changes in the school district analysis. One change was the average scores 
