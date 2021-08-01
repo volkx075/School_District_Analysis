@@ -1,4 +1,6 @@
 # School District Analysis
+Code:/
+![School District Code](PyCitySchools_Challenge.ipynb)
 ## Purpose
 The school board found out there was academic dishonesty with the 9th graders at Thomas High School. They asked Maria for help and now she needs our help to clean up the bad data. We want to remove math and reading scores for 9th graders at Thomas High School with NaNs. Then we will repeat our analysis with the clean data.
 ## Results
