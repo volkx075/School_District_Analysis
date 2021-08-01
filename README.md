@@ -2,7 +2,8 @@
 ## Purpose
 The school board found out there was academic dishonesty with the 9th graders at Thomas High School. They asked Maria for help and now she needs our help to clean up the bad data. We want to remove math and reading scores for 9th graders at Thomas High School with NaNs. Then we will repeat our analysis with the clean data.
 ## Results
-- How is the district summary affected?
+- How is the district summary affected?\
+![District Summary Before](analysis/District_Summary_Before.PNG)\
 - How is the school summary affected?
 - How does replacing the ninth grader's math and reading scores affect Thomas High School's performance relative to the other schools?
 - How does replacing the ninth-grade scores affect the following:
